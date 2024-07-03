@@ -39,11 +39,7 @@ CREATE TABLE `post` (
 --
 
 INSERT INTO `post` (`id`, `titulo`, `previa`, `conteudo`) VALUES
-(2, 'Primeiro post', 'Esse vai ser o primeiro post do blog.', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.'),
-(3, 'Segundo post viu', 'Minha internet caiu', 'aih qui delicia senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta senta quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica quica \r\n\r\n- poetico'),
-(4, 'Terceiro Post do blog', 'eu não sei mais oque fazer da vida, vou dormir', 'sei la'),
-(5, 'Esse deve ser o quarto, ja perdi a conta', 'Faz 23423 horas que to sem internet, vou sobreviver?', 'não tenho mais esperanças'),
-(6, 'quinto post', '1h07 da manha e nada de internet', 'morri, vou dormir');
+(2, 'Primeiro post', 'Esse vai ser o primeiro post do blog.', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.');
 
 --
 -- Índices para tabelas despejadas
