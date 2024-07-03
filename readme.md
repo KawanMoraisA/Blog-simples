@@ -1,1 +1,1 @@
-Olá, esse é meu primeiro projeto de um blog simples com php, html, css e javascript.
+Olá, esse é meu primeiro projeto de um blog simples utilizando php, html, css, bootstrap, javascript e como banco de dados, o xampp.
