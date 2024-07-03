@@ -41,10 +41,7 @@ CREATE TABLE `usuario` (
 
 INSERT INTO `usuario` (`id`, `nome`, `usuario`, `senha`, `perm`) VALUES
 (1, 'adm', 'adm', '123', 1),
-(5, 'nawaky', 'nawaky', '123', 0),
-(6, 'nawaky', 'nawaky2', '123', 0),
-(7, 'nawaky', 'nawaky3', '123', 0),
-(8, 'nawaky', 'nawaky4', '123', 0);
+(2, 'usuario', 'user', '123', 0);
 
 --
 -- Índices para tabelas despejadas
